@@ -1,5 +1,5 @@
 .env
 discordia.log
 gateway.json
-dep/
+deps/
 
